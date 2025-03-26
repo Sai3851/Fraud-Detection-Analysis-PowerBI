@@ -44,5 +44,5 @@ Fraud-Detection-Analysis-PowerBI/
 Want to contribute? Feel free to fork the repo and submit a pull request!
 
 ## 📩 Contact
-For any inquiries, reach out via [your email or GitHub profile].
+For any inquiries, reach out via https://www.linkedin.com/in/saigiri-nada/.
 
